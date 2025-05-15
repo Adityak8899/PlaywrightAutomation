@@ -17,5 +17,6 @@ public class BasePage {
         page.navigate(url);
         waitForPageLoad();
         System.out.println("abcd");
+        System.out.println("abcd");
     }
 } 
